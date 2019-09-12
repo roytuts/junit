@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.jeejava.com/junit-code-coverage/
+You can go through the tutorial https://www.roytuts.com/junit-code-coverage/

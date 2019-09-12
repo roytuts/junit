@@ -1,4 +1,4 @@
-package com.jeejava.junit.jacoco;
+package com.roytuts.junit.jacoco;
 
 import static org.junit.Assert.assertEquals;
 
