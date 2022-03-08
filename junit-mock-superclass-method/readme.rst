@@ -1,0 +1,1 @@
+Please follow the tutorial https://roytuts.com/how-to-mock-super-class-method-in-junit/
