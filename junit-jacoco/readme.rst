@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/junit-code-coverage/
+Please follow the tutorial https://roytuts.com/junit-code-coverage/
