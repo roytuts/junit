@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/junit-mockito-donothing-example/
+Please follow the tutorial https://roytuts.com/junit-mockito-donothing-example/
