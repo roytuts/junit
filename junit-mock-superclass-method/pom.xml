@@ -11,8 +11,9 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.compiler.source>8/16/19</maven.compiler.source>
-		<maven.compiler.target>8/16/19</maven.compiler.target>
+		<!--<maven.compiler.source>19</maven.compiler.source>
+		<maven.compiler.target>19</maven.compiler.target>-->
+		<maven.compiler.release>22</maven.compiler.release>
 	</properties>
 
 	<dependencies>
@@ -41,5 +42,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
